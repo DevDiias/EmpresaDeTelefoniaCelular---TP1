@@ -3,10 +3,8 @@ public class Telefonia {
 	
 	private int numPrePagos;
 	private int numPosPagos;
-	
-	//pendente criar mais 2 atributos:
-	//Vetor de referencias prePago;
-	//Vetor de referencias posPago;
+	private Prepago assinantesPrePago[];//necessario criar a classe Prepago
+	private Pospago assinantePosPago[];//necessario criar a classe Pospago
 
 	//---------------------------------------------------------------
 	
